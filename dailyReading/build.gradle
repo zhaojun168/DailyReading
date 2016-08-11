@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "24.0.1"
+
+    defaultConfig {
+        applicationId "com.android.dzj.app.dailyreading"
+        minSdkVersion 8
+        targetSdkVersion 21
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':dZJ_LIB')
+    compile files('libs/android-support-v7-recyclerview.jar')
+    compile files('libs/Android_Location_V1.3.2.jar')
+    compile files('libs/com.umeng.message_v2.7.0.jar')
+    compile files('libs/mta-sdk-1.6.2.jar')
+    compile files('libs/okio-0.6.1.jar')
+    compile files('libs/open_sdk_r5509.jar')
+    compile files('libs/org.apache.http.legacy.jar')
+    compile files('libs/SocialSDK_QQZone_3.jar')
+    compile files('libs/SocialSDK_Sina.jar')
+    compile files('libs/SocialSDK_WeiXin_1.jar')
+    compile files('libs/SocialSDK_WeiXin_2.jar')
+    compile files('libs/umeng-analytics-v5.6.1.jar')
+    compile files('libs/umeng_activeandroid.jar')
+    compile files('libs/umeng_community_location.jar')
+    compile files('libs/umeng_community_push.jar')
+    compile files('libs/umeng_community_sdk_core.jar')
+    compile files('libs/umeng_community_sdk_db.jar')
+    compile files('libs/umeng_community_sdk_login.jar')
+    compile files('libs/umeng_community_sdk_ui_discuss.jar')
+    compile files('libs/umeng_community_sdk_ui_main.jar')
+    compile files('libs/umeng_community_sdk_ui_weibo.jar')
+    compile files('libs/umeng_community_share.jar')
+    compile files('libs/umeng_social_sdk.jar')
+    compile files('libs/weiboSDKCore_3.1.4.jar')
+    compile files('libs/wire-runtime-1.7.0.jar')
+}

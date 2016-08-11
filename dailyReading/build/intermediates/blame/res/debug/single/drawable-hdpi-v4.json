@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_tianxie.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_tianxie.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_shuangyu.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_shuangyu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ratingbar_star1.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\ratingbar_star1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ratingbar_star4.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\ratingbar_star4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_video.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg_pad.9.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_tianping.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_tianping.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_baiyang.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_baiyang.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_mojie.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_mojie.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_pic.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_music.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ratingbar_star3.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\ratingbar_star3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_shizi.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_shizi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_shuangzi.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_shuangzi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_jinniu.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_jinniu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg_pad.9.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_juxie.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_juxie.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ratingbar_star5.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\ratingbar_star5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_shuiping.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_shuiping.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_sheshou.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_sheshou.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\astro_icon_chunv.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\astro_icon_chunv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ratingbar_star2.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dailyReading\\src\\main\\res\\drawable-hdpi\\ratingbar_star2.png"
+    }
+]

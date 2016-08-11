@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\shadow_bottom.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\src\\main\\res\\drawable-xhdpi\\shadow_bottom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\shadow_right.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\src\\main\\res\\drawable-xhdpi\\shadow_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\src\\main\\res\\drawable-xhdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\shadow_left.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\src\\main\\res\\drawable-xhdpi\\shadow_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\src\\main\\res\\drawable-xhdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\src\\main\\res\\drawable-xhdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\DailyReading\\dZJ_LIB\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

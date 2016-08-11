@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">每天阅读</string>
+    <string name="ra_text_article">文章</string>
+    <string name="ra_text_video">***</string>
+    <string name="ra_text_community">社区</string>
+    <string name="ra_text_duanzi">玩吧</string>
+    <string name="toast_exit_info">再按一次退出程序</string>
+    <string name="No_network">网络不可用</string>
+    <string name="loading">正在加载...</string>
+    <string name="share_title">APP「每天阅读」,知道的更多。</string>
+    <string name="toast_success">分享成功</string>
+    <string name="toast_cancel">分享取消</string>
+    <string name="toast_fail">分享失败</string>
+    <string name="qq">QQ号码测凶吉</string>
+    <string name="qq_introduce">一个QQ号码会影响我的运势？其实像风水、阳宅会影响运势命运的意义是一样的。
+        虽然这只是一个号码，但是它与您息息相关，也是您与很多人沟通的桥梁！
+        所以《吉》与《凶》可能会有一定的影响，不可轻视！本预测仅供参考。</string>
+    <string name="qq_input">请输入您的QQ号</string>
+     <string name="qq_start">开始测试</string>
+    <string name="constellation">星座运势</string>
+    <string name="baiyang">白羊座</string>
+    <string name="jinniu_date">4.20-5.20</string>
+    <string name="jinniu">金牛座</string>
+    <string name="shuangzi_date">5.21-6.21</string>
+    <string name="shuangzi">双子座</string>
+    <string name="juxie_date">6.22-7.22</string>
+    <string name="juxie">巨蟹座</string>
+    <string name="shizi_date">7.23-8.22</string>
+    <string name="shizi">狮子座</string>
+    <string name="chunv_date">8.23-9.22</string>
+    <string name="chunv">处女座</string>
+    <string name="tiancheng_date">9.23-10.23</string>
+    <string name="tiancheng">天秤座</string>
+    <string name="tianxie_date">10.24-11.22</string>
+    <string name="tianxie">天蝎座</string>
+    <string name="sheshou_date">11.23-12.21</string>
+    <string name="sheshou">射手座</string>
+    <string name="mojie_date">12.22-1.19</string>
+    <string name="mojie">摩羯座</string>
+    <string name="shuiping_date">1.20-2.18</string>
+    <string name="shuiping">水瓶座</string>
+    <string name="shuangyu_date">2.19-3.20</string>
+    <string name="shuangyu">双鱼座</string>
+    <string name="baiyang_date">3.21-4.19</string>
+    <string name="almanac">黄历运势</string>
+    <string name="summary">综合 ：</string>
+    <string name="love">爱情 ：</string>
+    <string name="money">财富 ：</string>
+    <string name="work">工作 ：</string>
+    <string name="grxz">贵人星座 ：</string>
+    <string name="lucky_num">幸运数字 ：</string>
+    <string name="lucky_time">吉时 ：</string>
+    <string name="lucky_color">吉色 ：</string>
+    <string name="lucky_direction">吉利方位 ：</string>
+
+</resources>

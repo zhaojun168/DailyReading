@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="42dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:text="@string/qq"
+        android:textColor="@color/paly_title_tx_color"
+        android:textSize="@dimen/textSize_Sixteen" />
+
+    <ImageView
+        android:id="@+id/qq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:background="@drawable/qq" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="42dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:text="@string/constellation"
+        android:textColor="@color/paly_title_tx_color"
+        android:textSize="@dimen/textSize_Sixteen" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="270dp"
+        android:orientation="vertical"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp" >
+
+        <LinearLayout style="@style/Constellation_LinearLayout_Styles" >
+
+            <LinearLayout
+                android:id="@+id/baiyang"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_01_baiyang_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/baiyang_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/baiyang" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/jinniu"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_02_jin_niu_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/jinniu_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/jinniu" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/shuangzi"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_03_shuang_zi_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/shuangzi_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/shuangzi" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/juxie"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_04_ju_xie_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/juxie_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/juxie" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout style="@style/Constellation_LinearLayout_Styles" >
+
+            <LinearLayout
+                android:id="@+id/shizi"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_05_shi_zi_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/shizi_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/shizi" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/chunv"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_06_chu_nv_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/chunv_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/chunv" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/tiancheng"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_07_tian_ping_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/tiancheng_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/tiancheng" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/tianxie"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_08_tian_xie_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/tianxie_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/tianxie" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout style="@style/Constellation_LinearLayout_Styles" >
+
+            <LinearLayout
+                android:id="@+id/sheshou"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_09_she_shou_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/sheshou_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/sheshou" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/mojie"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_10_mo_jie_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/mojie_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/mojie" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/shuiping"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_11_shui_ping_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/shuiping_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/shuiping" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/shuangyu"
+                style="@style/Constellation_Item_Styles" >
+
+                <ImageView
+                    style="@style/ww_parent"
+                    android:src="@drawable/star_icon_1_12_shuang_yu_normal" />
+
+                <TextView
+                    style="@style/Constellation_Date_Tv_Styles"
+                    android:text="@string/shuangyu_date" />
+
+                <TextView
+                    style="@style/Constellation_Title_Tv_Styles"
+                    android:text="@string/shuangyu" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

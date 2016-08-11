@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/time"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_gravity="center_horizontal" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="100dp" >
+
+        <LinearLayout
+            style="@style/ww_parent"
+            android:layout_centerVertical="true"
+            android:orientation="vertical" >
+
+            <LinearLayout style="@style/Constellation_Layout_Styles" >
+
+                <TextView
+                    android:id="@+id/summary"
+                    style="@style/Constellation_Tv_Styles" />
+
+                <ImageView
+                    android:id="@+id/summary_star"
+                    style="@style/ww_parent" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/Constellation_Layout_Styles" >
+
+                <TextView
+                    android:id="@+id/love"
+                    style="@style/Constellation_Tv_Styles" />
+
+                <ImageView
+                    android:id="@+id/love_star"
+                    style="@style/ww_parent" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/Constellation_Layout_Styles" >
+
+                <TextView
+                    android:id="@+id/money"
+                    style="@style/Constellation_Tv_Styles" />
+
+                <ImageView
+                    android:id="@+id/money_star"
+                    style="@style/ww_parent" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/Constellation_Layout_Styles" >
+
+                <TextView
+                    android:id="@+id/work"
+                    style="@style/Constellation_Tv_Styles" />
+
+                <ImageView
+                    android:id="@+id/work_star"
+                    style="@style/ww_parent" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imagView"
+            style="@style/wm_parent"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/grxz"
+        style="@style/Constellation_Tv_Styles" />
+
+    <TextView
+        android:id="@+id/xrxz"
+        style="@style/Constellation_Tv_Styles" />
+
+    <TextView
+        android:id="@+id/yfxz"
+        style="@style/Constellation_Tv_Styles" />
+
+    <TextView
+        android:id="@+id/lucky_direction"
+        style="@style/Constellation_Tv_Styles" />
+
+    <TextView
+        android:id="@+id/month_advantage"
+        style="@style/Constellation_Tv_Styles" />
+
+    <TextView
+        android:id="@+id/month_weakness"
+        style="@style/Constellation_Tv_Styles" />
+
+    <TextView
+        android:id="@+id/general_txt"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/love_txt"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/work_txt"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/money_txt"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>

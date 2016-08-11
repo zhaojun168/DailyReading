@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_community_sdk_core.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="760eade04c247a242052bf06a8c8e277a2824805">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_community_sdk_core_dc796c0849ca9ad65833f10926be262101c358fe\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\weiboSDKCore_3.1.4.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3617ce51258bf3ec0fe2503e3c0a920040b1b53">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\weiboSDKCore_3.1.4_2561ba5c039104843246ae25ab8f7c4c0f60a27c\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\Android_Location_V1.3.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b64d1f38ef7ee28b538d61a39d040f249c65587c">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Location_V1.3.2_7230b58a07f551f00e2c6b33d7bbb6aaca8786f0\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\exploded-aar\DailyReading\dZJ_LIB\unspecified\jars\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f81647f607356bb250dc61f460eb730612d35b9a">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\8\httpmime-4.1.3_7a7cc4d16ffe462bc235f032ed2005fb112d4f92\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_community_push.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1bc87d067cd8ae0a629706eb275c7c420337174a">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_community_push_eec4860590883257d9fcb7261ed436a16ef89121\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\okio-0.6.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="983af4e4ee6b4c2e6c57e4962f16976a47456c57">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\okio-0.6.1_61f576b46c8a158b217439b6944cd929cc08f7f4\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_community_sdk_ui_weibo.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c33ca87a28b57baa3be67eab8f35fd238df55f32">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_community_sdk_ui_weibo_e6f474f7779e943f262488a79ce2f9a4fa5eb630\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_community_sdk_db.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c7ea7640be4e3fb35dd7c249b7263c270b611d06">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_community_sdk_db_e5aea98a44c82f60ac0208223af80c3f2b5404c7\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\com.umeng.message_v2.7.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ceada45901c27847908826939d6c3d0c8701b81b">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\com.umeng.message_v2.7.0_97cf748b7f93aa6f957935dcee00c73a1e26bb82\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\exploded-aar\DailyReading\dZJ_LIB\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a4b6198c13fc86d28a31791d265c28b29be939c7">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\8\nineoldandroids-2.4.0_7d8e9abdf115614c15d224a59b6850879ae91084\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v7-recyclerview_4c45fc52d1f73ecc34ffc7f3ca2062e02b43118f\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="89534f4c475a8de979c300e6482c6434b2a093f5">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_b2788b46153d7c9d3a26ebeadd237d9975e37fbd\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c0f4b87b2aca74039a33fff0173b1c2dca4eb74b">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_609ab77f1f3fbc17c85abb0e9a6345a9b7c2a185\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_1_f8949aaffbd928ad14b6ff9c49661c014a5ff0d8\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9ca80b5d947693565f31c274ab23eac17435fc7">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_8e5b278ee97c8738a44f69594671bfe7cfed6f10\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_activeandroid.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="07b1a2c59da0043183c3e4ed42a84323aefe8c3e">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_activeandroid_6f254c3b69281636d8f5e5c4c046aff06e5992c6\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_0fc4c47e9c9f7a3f6f45d3bd492ce40045177ece\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_aa16b3cf885393ef74ba8407c65bcf20627dd05b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d4c7e39627f43e5195466e85b0c0cedae8f6cb4b">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_3_516d23f781d098a0c4c5c596a6640ff2ecf2d1b2\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="44c42bbbdfdd981e989eaae7e86b9aa51a234017">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a7b6603b73550d0bb11f973c25f0fb5adb6824ae\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng-analytics-v5.6.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b2705cbb19f52bb4d242458163a98d9e889c1292">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.6.1_be606ed085ad7669e0c663fa4f9f22c92d714898\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_community_sdk_login.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c9d1c3fe202fc62916aa5742f30800ab67240013">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_community_sdk_login_88a0e27494a86af0f667f947410d4c98ca2d5a20\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\wire-runtime-1.7.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="99b61fbfbd9ae5d5309bb4a618e1f2d875821e2c">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\wire-runtime-1.7.0_d8d78de066bf524e7c168f9ea67f04079e362947\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\open_sdk_r5509.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="538ea8fb21ea76e8cb424598ac38127cb3344d79">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5509_f9434da88df4527ae572d4a8404c858c9c349829\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_77ba502654dc2448bbc3f870c045b24bbfd07a0f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\兆俊\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.2\1f96456ca233dec780aa224bff076d8e8bca3908\gson-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.2_577bb591fef3613500dd89d2fd59ba898455f53c\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ba13ee99768ec9c19adce3448b044fd6c66252fd">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_2_1fbd769f5236a84a5047e777986e688392efba70\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_bb7887420bc9f3075f03344b4ae0fb5eb8e1059d\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_community_share.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4f29c232e1c866220214cc655d748bc6710982fb">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_community_share_b45cc8d01fed0d751bf07de45a6ffeb744f43d12\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_e40ba6f3bce71d9f9a8083b61ef5dd80eecddbd6\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_community_sdk_ui_main.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dab71622eeee6e5beb39960850a2222a57baf494">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_community_sdk_ui_main_25f5f6449e35fff01aca3fdf85124fee5abd237b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_community_sdk_ui_discuss.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="12ae8e4c2f1bd7ff0685a3570403e82136c3e6c9">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_community_sdk_ui_discuss_c786913617ba5591f78f226211f46a51a48ec6b6\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\exploded-aar\DailyReading\dZJ_LIB\unspecified\jars\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9a7c2e4d0d614e4fe07f717ffbfd225369a7f4c3">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\8\universal-image-loader-1.9.4_7f0c0336cb39f9427f9c28c6847c194c883336c5\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\DailyReading\dailyReading\libs\umeng_community_location.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="58d8a012e61df3b65768df16560defdbf43cfa59">
+        <dex dex="D:\AndroidStudioProjects\DailyReading\dailyReading\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_community_location_1c3218832117ccb2b3587f2e4acc952f0814f334\classes.dex" />
+    </item>
+
+</items>

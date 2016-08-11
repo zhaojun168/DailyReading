@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/time"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_gravity="center_horizontal" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="100dp" >
+
+        <LinearLayout
+            style="@style/ww_parent"
+            android:layout_centerVertical="true"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/general_index"
+                style="@style/Constellation_Tv_Styles" />
+
+            <TextView
+                android:id="@+id/love_index"
+                style="@style/Constellation_Tv_Styles" />
+
+            <TextView
+                android:id="@+id/money_index"
+                style="@style/Constellation_Tv_Styles" />
+
+            <TextView
+                android:id="@+id/work_index"
+                style="@style/Constellation_Tv_Styles" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imagView"
+            style="@style/wm_parent"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/oneword"
+        style="@style/Constellation_Tv_Styles" />
+
+    <TextView
+        android:id="@+id/general_txt"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/health_txt"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/love_txt"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/money_txt"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/work_txt"
+        style="@style/Constellation_Tv_Styles"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>

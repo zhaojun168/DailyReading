@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <dimen name="textSize_Eight">8sp</dimen>
+     <dimen name="textSize_Ten">10sp</dimen>
+     <dimen name="textSize_Twelve">12sp</dimen>
+     <dimen name="textSize_Fourteen">14sp</dimen>
+     <dimen name="textSize_Sixteen">16sp</dimen>
+     <dimen name="textSize_Eighteen">18sp</dimen>
+     <dimen name="textSize_Twenty">20sp</dimen>
+     <dimen name="textSize_Twenty_two">22sp</dimen>
+     <dimen name="textSize_Twenty_four">24sp</dimen>
+     <dimen name="textSize_Twenty_six">26sp</dimen>
+     <dimen name="textSize_Twenty_eight">28sp</dimen>
+     <dimen name="textSize_Thirty">30sp</dimen>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/include_title" />
+
+    <TextView
+        style="@style/mw_parent"
+        android:lineSpacingMultiplier="2"
+        android:padding="10dp"
+        android:text="@string/qq_introduce"
+        android:textSize="@dimen/textSize_Sixteen" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/et"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="10dp"
+            android:layout_weight="4"
+            android:background="@drawable/edit_text"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:gravity="center_vertical|start"
+            android:hint="@string/qq_input"
+            android:numeric="integer"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textSize="@dimen/textSize_Fourteen" />
+
+        <TextView
+            android:id="@+id/test"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="2"
+            android:background="@drawable/but"
+            android:gravity="center"
+            android:text="@string/qq_start"
+            android:textSize="@dimen/textSize_Fourteen" />
+    </LinearLayout>
+
+    
+    <TextView
+        android:id="@+id/desc"
+        style="@style/Qq_text_Styles" />
+
+    <TextView
+        android:id="@+id/score"
+        style="@style/Qq_text_Styles" />
+
+    <TextView
+        android:id="@+id/grade"
+        style="@style/Qq_text_Styles" />
+
+    <TextView
+        android:id="@+id/analysis"
+        style="@style/Qq_text_Styles" />
+
+</LinearLayout>

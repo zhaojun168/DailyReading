@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <!-- <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@color/title_background_color" >
+    </RelativeLayout> -->
+
+     <FrameLayout
+        android:id="@+id/flayout"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+    <View 
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#dddddd"/>
+
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="44dp"
+        android:background="@color/navigation_color"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/article"
+            style="@style/Ra_But_Styles"
+            android:checked="true"
+            android:drawableTop="@drawable/ra_but_all"
+            android:text="@string/ra_text_article" />
+
+        <!-- <RadioButton
+            android:id="@+id/video"
+            style="@style/Ra_But_Styles"
+            android:drawableTop="@drawable/ra_but_picture"
+            android:text="@string/ra_text_video" /> -->
+
+        <RadioButton
+            android:id="@+id/community"
+            style="@style/Ra_But_Styles"
+            android:drawableTop="@drawable/ra_but_video"
+            android:text="@string/ra_text_community" />
+
+        <RadioButton
+            android:id="@+id/paly"
+            style="@style/Ra_But_Styles"
+            android:drawableTop="@drawable/ra_but_duanzi"
+            android:text="@string/ra_text_duanzi" />
+
+    </RadioGroup>
+
+</LinearLayout>

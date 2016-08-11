@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#F1F1F1</color><!--所有界面的背景颜色-->
+    <color name="title_background_color">#1C86EE</color><!--顶部标题的背景颜色-->
+    <color name="item_name_color">#666666</color><!--顶部菜单文字的背景颜色-->
+    <color name="navigation_color">#FAFAFA</color><!--底部导航栏背景颜色-->
+    <color name="ra_text_off">#7E7E7E</color><!--底部导航栏未选中文字颜色-->
+    <color name="ra_text_on">#0093FF</color><!--底部导航栏选中文字颜色-->
+    <color name="item_top_text">#8C8C8C</color><!--用户名与时间文字颜色-->
+    <color name="item_introduce_text">#1F1F1F</color><!--简介文字颜色-->
+    <color name="paly_title_tx_color">#333333</color><!--玩吧标题文字颜色-->
+     <color name="paly_constellation_tx_color">#666666</color><!--星座文字文字颜色-->
+    
+    
+</resources>
